@@ -129,6 +129,7 @@ The [community-plugins repository](https://github.com/pipe-cd/community-plugins)
 
 ## Resources
 
+- [Build and learn PipeCD plugins](/docs-v1.0.x/contribution-guidelines/plugin-book/)
 - [Plugin Architecture RFC](https://github.com/pipe-cd/pipecd/blob/master/docs/rfcs/0015-pipecd-plugin-arch-meta.md)
 - [Plugin Concepts](/docs-v1.0.x/concepts/#plugins)
 - [Installing piped](/docs-v1.0.x/installation/install-piped/)
